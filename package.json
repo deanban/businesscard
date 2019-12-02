@@ -1,0 +1,29 @@
+{
+  "name": "deans-business-card",
+  "version": "1.0.0",
+  "description": "business-card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/deanban/businesscard.git"
+  },
+  "keywords": [
+    "personal",
+    "card",
+    "portfolio"
+  ],
+  "author": "deanban",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deanban/businesscard/issues"
+  },
+  "homepage": "https://github.com/deanban/businesscard#readme"
+}
