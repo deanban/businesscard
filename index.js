@@ -26,12 +26,11 @@ const data = {
 const newline = '\n'
 const heading = `${data.name}`
 const working = `${data.labelWork}  ${data.work}`
-const twittering = `${data.labelTwitter}  ${data.twitter}`
 const githubing = `${data.labelGitHub}  ${data.github}`
 const linkedining = `${data.labelLinkedIn}  ${data.linkedin}`
 const webing = `${data.labelWeb}  ${data.web}`
 const carding = `${data.labelCard}  ${data.npx}`
 
-const output = heading + newline + newline + newline + working + newline + twittering + newline + githubing + newline + linkedining + newline + webing + newline + newline + carding
+const output = heading + newline + newline + newline + working + newline + githubing + newline + linkedining + newline + webing + newline + newline + carding
 
 console.log(chalk.magenta.bold(boxen(output, options)))

@@ -16,7 +16,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/deanban/businesscard.git"
+    "url": "git+https://github.com/deanban/businesscard.git"
   },
   "keywords": [
     "personal",
