@@ -14,7 +14,7 @@ const data = {
   work: chalk.cyan.bold('Software Engineer @') + chalk.magenta.bold(' ThinkEmpire'),
   github: chalk.cyan.bold('https://github.com/') + chalk.magenta.bold('deanban'),
   linkedin: chalk.cyan.bold('https://linkedin.com/in/') + chalk.magenta.bold('p-d-banik'),
-  web: chalk.magenta.bold('http://https://pdbanik.com/'),
+  web: chalk.magenta.bold('http://pdbanik.com/'),
   npx: chalk.bold('npx deanban'),
   labelWork: chalk.yellow.bold('      Work:'),
   labelGitHub: chalk.yellow.bold('    GitHub:'),
